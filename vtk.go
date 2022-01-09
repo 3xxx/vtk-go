@@ -17,7 +17,7 @@ import (
 	"errors"
 	"unsafe"
 
-	"github.com/silversquirl/vtk-go/cairo"
+	"github.com/3xxx/vtk-go/cairo"
 	// TODO: remove this dependency
 	"github.com/mattn/go-pointer"
 )
